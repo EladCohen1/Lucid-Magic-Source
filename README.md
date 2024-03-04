@@ -42,3 +42,7 @@ When a companion dies in battle, they get sent to the graveyard. Players can cho
 Choosing the correct team for the job is just as important as strategic use of heroic actions, card abilities and basic attacks. Only once you master the art of combat within the dream, can you truely hope to break out of it.
 Good luck heroes.
 And sweet dreams.
+
+
+## How To Download
+To download and play the latest release of Lucid Magic, please visit the game github page by clicking [here](https://github.com/EladCohen1/Lucid-Magic).
