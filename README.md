@@ -29,6 +29,8 @@ Players can choose to expend 1 Mana point once each turn to increase their maxim
 
 Players can also choose to use Basic Attacks, to command a card to directly attack an enemy card, each card will take damage equal to the attack value of the opposing card.
 Using a Basic Attack costs 1 Mana and each card can only use their Basic attack once per turn.
+The green border around some cards indicates those cards can use a basic attack. (To use a basic attack, click and hold the left mouse button on the card you want to command to attack, then drag the target indicator to the card you wish to attack,
+to execute the attack, release the button).
 
 Players can expend their Mana points on card abilities, abilities can have immense influence on the outcome of the game. Smart use of abilities can be the deciding factor between victory and defeat.
 ![image](https://github.com/EladCohen1/Lucid-Magic/assets/51457155/24c2bc01-4009-48f1-a98f-75648d203947)
