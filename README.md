@@ -18,6 +18,7 @@ Now, they must defeat the dream to save the kingdom.
 
 ## How To Download
 To download and play the latest release of Lucid Magic, please visit the game github page by clicking [here](https://github.com/EladCohen1/Lucid-Magic).
+And follow the "How To Download" instructions there.
 
 ## How To Play
 Lucid Magic is meant to be played on a single computer as each player takes control in their turn.
