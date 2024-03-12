@@ -1,4 +1,5 @@
 # Lucid-Magic
+[Official Website](https://eladcohendesign.com/lucid-magic/)
 
 ![image](https://github.com/EladCohen1/Lucid-Magic/assets/51457155/3be9e98a-d94a-4165-b42d-eac6eff0b24b)
 
