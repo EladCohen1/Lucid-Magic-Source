@@ -171,8 +171,9 @@ MonoBehaviour:
     blessing buff.\nNature\u2019s blessing (buff) - When attacked with a basic attack,
     the attacker will take 1 additional damage. This extra damage will be added as
     if the defender had +1 attack value (the damage is not a separate instance of
-    damage for the purposes for the forest effect for example)."
+    damage for the purposes of the forest effect for example)."
   manaCost: 2
+  multiplier: 1
 --- !u!114 &178933291315793365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -349,6 +350,10 @@ PrefabInstance:
     - target: {fileID: 8316818468456736882, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
       propertyPath: m_Text
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8381160431679347779, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 9171097211206560317, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
       propertyPath: m_IsActive

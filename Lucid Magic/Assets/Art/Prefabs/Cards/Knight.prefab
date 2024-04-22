@@ -96,8 +96,15 @@ MonoBehaviour:
     his and his allies attack, and max health by 1.
 
     This effect will last until
-    the knight dies.'
+    the knight dies.
+
+    This attack is treated as a basic attack.
+
+    Using this
+    ability does not prevent the knight from using his regular basic attack on the
+    same turn.'
   manaCost: 2
+  multiplier: 1
 --- !u!114 &4909497007822417040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -350,6 +357,10 @@ PrefabInstance:
     - target: {fileID: 8316818468456736882, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
       propertyPath: m_Text
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8381160431679347779, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8444500898763476039, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}

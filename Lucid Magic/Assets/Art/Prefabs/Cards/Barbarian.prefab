@@ -91,9 +91,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   header: Rage
-  content: "The Barbarian will enrage, reducing any incoming damage to him by 1 until
-    the player\u2019s next turn."
+  content: The Barbarian will enrage, reducing any incoming damage to him by 1 until
+    your next turn.
   manaCost: 1
+  multiplier: 1
 --- !u!114 &1973657475655585237
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -370,6 +371,10 @@ PrefabInstance:
     - target: {fileID: 8316818468456736882, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
       propertyPath: m_Text
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8381160431679347779, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8444500898763476039, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}

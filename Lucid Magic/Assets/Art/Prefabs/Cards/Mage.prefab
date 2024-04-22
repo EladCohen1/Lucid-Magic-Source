@@ -92,8 +92,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   header: Fireball
   content: The mage will hurl a fireball at the chosen target dealing 3 damage to
-    the target and 1 damage to any adjacent target.
+    the target and 1 damage to any adjacent targets.
   manaCost: 3
+  multiplier: 1
 --- !u!114 &1761778985999924285
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -346,6 +347,10 @@ PrefabInstance:
     - target: {fileID: 8316818468456736882, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
       propertyPath: m_Text
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8381160431679347779, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8444500898763476039, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}

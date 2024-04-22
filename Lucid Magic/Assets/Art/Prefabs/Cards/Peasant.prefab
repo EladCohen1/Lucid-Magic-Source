@@ -92,9 +92,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   header: Harvest
   content: The peasant will begin the harvest, If not interrupted the peasant will
-    get a +1 additional damage point and +1 additional health point, this bonus can
-    stack multiple times. This ability can be used up to 3 times per turn.
+    gain +1 additional damage point and +1 additional health point at the start of
+    your next turn, this bonus can stack multiple times. This ability may be used
+    up to 3 times per turn.
   manaCost: 1
+  multiplier: 1
 --- !u!114 &1124682137784667825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -347,6 +349,10 @@ PrefabInstance:
     - target: {fileID: 8316818468456736882, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
       propertyPath: m_Text
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8381160431679347779, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8444500898763476039, guid: c8551eb66d4d3a546a637a6414aa64c5, type: 3}
