@@ -95,14 +95,15 @@ MonoBehaviour:
     and kills the target he will raise the moral of himself and his allies,  increasing
     his and his allies attack, and max health by 1.
 
-    This effect will last until
-    the knight dies.
 
-    This attack is treated as a basic attack.
+    - This effect will last
+    until the knight dies.
 
-    Using this
-    ability does not prevent the knight from using his regular basic attack on the
-    same turn.'
+    - This attack is treated as a basic attack.
+
+    -
+    Using this ability does not prevent the knight from using his regular basic attack
+    on the same turn.'
   manaCost: 2
   multiplier: 1
 --- !u!114 &4909497007822417040

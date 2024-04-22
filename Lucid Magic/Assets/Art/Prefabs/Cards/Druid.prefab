@@ -168,10 +168,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   header: "Nature\u2019s Blessing"
   content: "The druid will bless a chosen target, giving the target the nature\u2019s
-    blessing buff.\nNature\u2019s blessing (buff) - When attacked with a basic attack,
-    the attacker will take 1 additional damage. This extra damage will be added as
-    if the defender had +1 attack value (the damage is not a separate instance of
-    damage for the purposes of the forest effect for example)."
+    blessing buff.\n\nNature\u2019s blessing (buff) - When attacked with a basic
+    attack, the attacker will take 1 additional damage. \nThis extra damage will
+    be added as if the defender had +1 attack value (the damage is not a separate
+    instance of damage for the purposes of the forest effect for example)."
   manaCost: 2
   multiplier: 1
 --- !u!114 &178933291315793365

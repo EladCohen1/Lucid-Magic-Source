@@ -171,11 +171,11 @@ MonoBehaviour:
     player can choose a card that\u2019s currently on the table for the guard to
     defend, when a companion is defended they can not be attacked using a basic attack,
     instead any attacks directed at them will instead attack the guard instead. \nThe
-    guard will deal 1 point of damage to the attacker when attacked.\n \nThis effect
-    is broken when the guard dies or when the princess casts royal blood again.\nThe
-    guard will die upon taking any damage, but can only be damaged by a basic attack
-    targeting the defended companion.\nOnly one guard can be active at a time per
-    princess card."
+    guard will deal 1 point of damage to the attacker when attacked.\n \n- This effect
+    is broken when the guard dies or when the princess casts royal blood again.\n-
+    The guard will die upon taking any damage, but can only be damaged by a basic
+    attack targeting the defended companion.\n- Only one guard can be active at a
+    time per princess card."
   manaCost: 2
   multiplier: 1
 --- !u!114 &4520073863127216207

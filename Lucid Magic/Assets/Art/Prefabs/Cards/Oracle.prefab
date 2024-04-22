@@ -91,9 +91,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   header: Desperate Prayer
-  content: The Oracle will heal a chosen unit (ally or enemy) by 2 health points.
+  content: 'The Oracle will heal a chosen unit (ally or enemy) by 2 health points.
+
+
+    -
     This effect can only put companions up to their original health value, however
-    this can heal the hero without restrictions.
+    this can heal the hero without restrictions.'
   manaCost: 1
   multiplier: 1
 --- !u!114 &4246691239791856342

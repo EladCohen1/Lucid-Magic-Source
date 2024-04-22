@@ -168,9 +168,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   header: Monstrous tactics
   content: "The monster will charge at a random enemy target increasing it\u2019s
-    own attack power by 1 for this attack.\nThis attack is treated as a basic attack.\nUsing
-    this ability does not prevent the monster from using his regular basic attack
-    on the same turn."
+    own attack power by 1 for this attack.\n\n- This attack is treated as a basic
+    attack.\n- Using this ability does not prevent the monster from using his regular
+    basic attack on the same turn."
   manaCost: 1
   multiplier: 1
 --- !u!114 &6563578366098034517
